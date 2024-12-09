@@ -34,11 +34,11 @@ pip install gradio
 ```
 
 ### 🖼️ Demo
-1. Download our available [checkpoints]() and put them in the directory **your/checkpoint**
+1. Download our available [checkpoints](https://drive.google.com/drive/folders/1TtaoOPmh167gpgHHWRNBMCaA7t_XZ4Vg?usp=sharing) and put them in the directory **your path/checkpoint**
 2. Execute the code to run an interactive demo on your own machine:
 
 ```
-python playground/botdemo.py
+python app.py
 ```
 
 ### 🎉 Acknowledgement
