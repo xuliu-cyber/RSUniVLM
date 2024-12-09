@@ -26,8 +26,8 @@ cd RSUniVLM
 2. Install required Python packages
 
 ```
-conda create -n reunivlm python=3.11
-conda activate reunivlm
+conda create -n rsunivlm python=3.11
+conda activate rsunivlm
 pip install --upgrade pip  # Enable PEP 660 support.
 pip install -e ".[train]"
 ```
