@@ -1,11 +1,11 @@
 import os
 
 AVAILABLE_MODELS = {
-    "llava_llama": "LlavaLlamaForCausalLM, LlavaConfig",
-    "llava_qwen": "LlavaQwenForCausalLM, LlavaQwenConfig",
-    "llava_mistral": "LlavaMistralForCausalLM, LlavaMistralConfig",
-    "llava_mixtral": "LlavaMixtralForCausalLM, LlavaMixtralConfig",
-    "llava_qwen_moe": "LlavaQwenMoeForCausalLM, LlavaQwenMoeConfig",    
+    # "llava_llama": "LlavaLlamaForCausalLM, LlavaConfig",
+    # "llava_qwen": "LlavaQwenForCausalLM, LlavaQwenConfig",
+    # "llava_mistral": "LlavaMistralForCausalLM, LlavaMistralConfig",
+    # "llava_mixtral": "LlavaMixtralForCausalLM, LlavaMixtralConfig",
+    # "llava_qwen_moe": "LlavaQwenMoeForCausalLM, LlavaQwenMoeConfig",    
     "llava_qwen_gmoe": "LlavaQwenGMoeForCausalLM, LlavaQwenGMoeConfig",    
     # Add other models as needed
 }

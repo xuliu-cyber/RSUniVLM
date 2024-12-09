@@ -221,15 +221,15 @@ def echo(message, image1, image2):
 
 # 添加示例数据
 examples1 = [
-    ["[CAP] Describe this image briefly.", "/home/liux/LLaVA-NeXT/playground/demo_images/05863_0000.png", None],
-    ["[VG] Where is the windwill?", "/home/liux/LLaVA-NeXT/playground/demo_images/05863_0000.png", None],
-    ["[SEG] water.", "/home/liux/LLaVA-NeXT/playground/demo_images/05864_0000.png", None],
-    ["[SEG] bridge.", "/home/liux/LLaVA-NeXT/playground/demo_images/05864_0000.png", None],
-    ["[VQA] How many basketball courts?", "/home/liux/LLaVA-NeXT/playground/demo_images/05865_0000.png", None],
-    ["[REF] what is [1, 20, 9, 30]?", "/home/liux/LLaVA-NeXT/playground/demo_images/05865_0000.png", None],
-    ["[CCD] Please briefly describe the changes in these two images.", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/A/test_000289.png", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/B/test_000289.png"],
-    ["[SEG] Please segment the building area that have changed in the second image.", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/A/image.png", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/B/image.png"],
-    ["[SEG] Please segment the road area that have changed in the second image.", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/A/test_000289.png", "/home/liux/LLaVA-NeXT/playground/demo_images/CD/B/test_000289.png"],
+    ["[CAP] Describe this image briefly.", "playground/demo_images/05863_0000.png", None],
+    ["[VG] Where is the windwill?", "playground/demo_images/05863_0000.png", None],
+    ["[SEG] water.", "playground/demo_images/05864_0000.png", None],
+    ["[SEG] bridge.", "playground/demo_images/05864_0000.png", None],
+    ["[VQA] How many basketball courts?", "playground/demo_images/05865_0000.png", None],
+    ["[REF] what is [1, 20, 9, 30]?", "playground/demo_images/05865_0000.png", None],
+    ["[CCD] Please briefly describe the changes in these two images.", "playground/demo_images/CD/A/test_000289.png", "playground/demo_images/CD/B/test_000289.png"],
+    ["[SEG] Please segment the building area that have changed in the second image.", "playground/demo_images/CD/A/image.png", "playground/demo_images/CD/B/image.png"],
+    ["[SEG] Please segment the road area that have changed in the second image.", "playground/demo_images/CD/A/test_000289.png", "playground/demo_images/CD/B/test_000289.png"],
 
 ]
 examples2 = [ 

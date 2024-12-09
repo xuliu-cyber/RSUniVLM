@@ -30,11 +30,12 @@ conda create -n rsunivlm python=3.11
 conda activate rsunivlm
 pip install --upgrade pip  # Enable PEP 660 support.
 pip install -e ".[train]"
+pip install gradio
 ```
 
 ### 🖼️ Demo
-
-In order to run an interactive demo on your own machine, execute the code:
+1. Download our available [checkpoints]() and put them in the directory **your/checkpoint**
+2. Execute the code to run an interactive demo on your own machine:
 
 ```
 python playground/botdemo.py
