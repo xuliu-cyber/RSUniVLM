@@ -2,7 +2,7 @@
 <h1>RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts</h1>
 
 [![Demo](https://img.shields.io/badge/Online-Demo-red)]()
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://rsunivlm.github.io/)
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 </div>
 
