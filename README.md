@@ -34,8 +34,9 @@ pip install gradio
 ```
 
 ### 🖼️ Demo
-1. Download our available [checkpoints](https://drive.google.com/drive/folders/1TtaoOPmh167gpgHHWRNBMCaA7t_XZ4Vg?usp=sharing) and put them in the directory **your path/checkpoint**
-2. Execute the code to run an interactive demo on your own machine:
+1. Download our available [checkpoints](https://drive.google.com/drive/folders/1TtaoOPmh167gpgHHWRNBMCaA7t_XZ4Vg?usp=sharing).
+2. Change the *model_path* to your checkpoint path.
+3. Execute the code to run an interactive demo on your own machine:
 
 ```
 python app.py
