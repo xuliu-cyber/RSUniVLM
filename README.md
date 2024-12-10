@@ -3,7 +3,7 @@
 
 [![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://rsunivlm.github.io/)
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.05679)
 </div>
 
 ![Teaser](demo/teaser.png) 
