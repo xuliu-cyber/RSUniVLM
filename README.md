@@ -12,7 +12,7 @@
 ### 📢 Latest Updates
 
 - **2024.12.10** Release [huggingface demo](https://huggingface.co/spaces/liux-cyber/RSUniVLM)
-- **2024.12.8** Release demo code
+- **2024.12.8**  Release demo code
 
 ---
 
