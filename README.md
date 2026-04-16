@@ -46,3 +46,20 @@ python app.py
 ### 🎉 Acknowledgement
 
 - **Code & Model**: We build our project based on the code repo of [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT).
+
+### 🧩 Citation
+If you find this work useful, please cite:
+、、、
+@article{LIU2026113717,
+title = {RSUniVLM: A unified vision-language model for remote sensing via Granularity-oriented MoE},
+journal = {Pattern Recognition},
+volume = {179},
+pages = {113717},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.113717},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326006825},
+author = {Xu Liu and Zhouhui Lian},
+keywords = {Remote sensing, Vision language model},
+}
+、、、
