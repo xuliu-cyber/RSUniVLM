@@ -49,7 +49,7 @@ python app.py
 
 ### 🧩 Citation
 If you find this work useful, please cite:
-、、、
+```
 @article{LIU2026113717,
 title = {RSUniVLM: A unified vision-language model for remote sensing via Granularity-oriented MoE},
 journal = {Pattern Recognition},
@@ -62,4 +62,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0031320326006825},
 author = {Xu Liu and Zhouhui Lian},
 keywords = {Remote sensing, Vision language model},
 }
-、、、
+```
